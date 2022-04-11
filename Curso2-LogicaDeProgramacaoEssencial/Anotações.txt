@@ -1,0 +1,8 @@
+Referêncial teórico:
+https://ftp.unicamp.br/pub/apoio/treinamentos/logica/logica.pdf
+
+Curso complementar: 
+https://www.ev.org.br/cursos/fundamentos-de-logica-de-programacao
+
+Vídeo expositivo:
+https://www.youtube.com/watch?v=iF2MdbrTiBM
